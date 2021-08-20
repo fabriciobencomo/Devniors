@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = (sequelize, DataTypes) => {
-  const User = sequelize.define('User',{
+  const Users = sequelize.define('users',{
     username: DataTypes.STRING,
     password: DataTypes.STRING,
     role: DataTypes.STRING
@@ -10,5 +10,5 @@ module.exports = (sequelize, DataTypes) => {
     underscored: true
   });
 
-  return User;
+  return Users;
 };
