@@ -1,0 +1,23 @@
+{
+    "development": {
+      "username": "root",
+      "password": "12345",
+      "database": "devniors_dev",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": "12345",
+      "database": "devniors_test",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": "12345",
+      "database": "devniorsdb",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }

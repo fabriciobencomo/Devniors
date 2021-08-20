@@ -1,0 +1,23 @@
+{
+  "name": "devniors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "dev": "nodemon src/app.js",
+    "run": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabriciobencomo/Devniors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabriciobencomo/Devniors/issues"
+  },
+  "homepage": "https://github.com/fabriciobencomo/Devniors#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
