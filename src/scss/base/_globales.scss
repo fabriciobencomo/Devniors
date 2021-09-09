@@ -9,6 +9,7 @@ body {
     font-family: $fuentePrincipal;
     font-size: 1.6rem;
     line-height: 1.8;
+    background-color: $gris;
 }
 p {
     font-size: 2rem;
@@ -32,9 +33,9 @@ picture {
 h1, h2, h3 {
     font-family: $fuentePrincipal;
     margin: 2rem 0;
-    font-weight: 300;
+    font-weight: $bold;
     text-align: center;
-    
+    color: $naranja;
 }
 
 h1 {

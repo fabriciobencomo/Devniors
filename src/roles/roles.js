@@ -1,4 +1,3 @@
 exports.ROLE = {
-    ADMIN: 'admin',
-    TEACHER: 'teacher'
+    ADMIN: 'admin'
 };

@@ -7,10 +7,8 @@
     <title>Devniors</title>
 </head>
 <body>
-    <header class="header inicio">
-        <div class="nav">
-            
-        </div>
-    </header>
+    <main>
+        <h1>AAAAAAAAAAAAAAAAAAAAAAAAAAA</h1>
+    </main>
 </body>
 </html>

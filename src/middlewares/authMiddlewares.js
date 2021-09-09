@@ -20,7 +20,8 @@ exports.verifyIfUserExists = async (req, res, next) => {
 
         next();
     } catch(e) {
-        return res.sendStatus(401);
+        console.log(e.message);
+        return res.sendStatus(400);
     }
 };
 
@@ -47,6 +48,7 @@ exports.verifyToken = async (req, res, next) => {
             }
         });
 
+        // Get the role of the user
         req.userRole = jwt.decode(req.token, "secretkey").user[0].role;
 
         next();
