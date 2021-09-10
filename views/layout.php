@@ -7,27 +7,26 @@
     <title>Devniors</title>
 </head>
 <body>
-<div class="contenedor contenido-header">
-            <div class="barra">
-                <a href="/">
-                    <img class="logo" src="../public/build/img/logo-sin-fondo2.svg" alt="Logotipo de devniors">
-                </a>
-                <div class="mobile-menu">
-                    <img src="../public/build/img/barras.svg" alt="icono menu responsive">
-                </div>
+    <div class="contenedor contenido-header">
+        <div class="barra">
+            <a href="/">
+                <img class="logo" src="../public/build/img/logo-sin-fondo2.svg" alt="Logotipo de devniors">
+            </a>
+            <div class="mobile-menu">
+                <img src="../public/build/img/barras.svg" alt="icono menu responsive">
+            </div>
 
-                <div class="derecha">
-                    <nav class="navegacion">
-                        <a href="/cursos">Cursos</a>
-                        <a href="/nosotros">Nosotros</a>
-                        <a href="/blog">Blog</a>
-                        <a href="/contacto">Contacto</a>
-
-                        <a href="">
-                            <img src="../public/build/img/light-mode.svg" alt="icono modo oscuro">
-                        </a>
-                    </nav>
-                </div>
-            </div> <!--.barra-->
+            <div class="derecha">
+                <nav class="navegacion">
+                    <a href="/cursos">Cursos</a>
+                    <a href="/nosotros">Nosotros</a>
+                    <a href="/blog">Blog</a>
+                    <a href="/contacto">Contacto</a>
+                </nav>
+            </div>
+        </div>
+    </div> <!--.barra-->
+        
+    
 </body>
 </html>
