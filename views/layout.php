@@ -10,7 +10,7 @@
 <div class="contenedor contenido-header">
             <div class="barra">
                 <a href="/">
-                    <img class="logo" src="../public/build/img/Opera Captura de pantalla_2021-09-09_185817_cdn.discordapp.com.webp" alt="Logotipo de Bienes Raices">
+                    <img class="logo" src="../public/build/img/logo-sin-fondo2.svg" alt="Logotipo de devniors">
                 </a>
                 <div class="mobile-menu">
                     <img src="../public/build/img/barras.svg" alt="icono menu responsive">
