@@ -7,8 +7,24 @@
     <title>Devniors</title>
 </head>
 <body>
-    <main>
-        <h1>AAAAAAAAAAAAAAAAAAAAAAAAAAA</h1>
-    </main>
+<div class="contenedor contenido-header">
+            <div class="barra">
+                <a href="/">
+                    <img class="logo" src="../public/build/img/Opera Captura de pantalla_2021-09-09_185817_cdn.discordapp.com.webp" alt="Logotipo de Bienes Raices">
+                </a>
+                <div class="mobile-menu">
+                    <img src="../public/build/img/barras.svg" alt="icono menu responsive">
+                </div>
+
+                <div class="derecha">
+                    <nav class="navegacion">
+                        <a href="/nosotros">Nosotros</a>
+                        <a href="/anuncios">Anuncios</a>
+                        <a href="/blog">Blog</a>
+                        <a href="/contacto">Contacto</a>
+                    </nav>
+                </div>
+                
+            </div> <!--.barra-->
 </body>
 </html>
