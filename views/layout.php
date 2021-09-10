@@ -18,13 +18,16 @@
 
                 <div class="derecha">
                     <nav class="navegacion">
+                        <a href="/cursos">Cursos</a>
                         <a href="/nosotros">Nosotros</a>
-                        <a href="/anuncios">Anuncios</a>
                         <a href="/blog">Blog</a>
                         <a href="/contacto">Contacto</a>
+
+                        <a href="">
+                            <img src="../public/build/img/light-mode.svg" alt="icono modo oscuro">
+                        </a>
                     </nav>
                 </div>
-                
             </div> <!--.barra-->
 </body>
 </html>
